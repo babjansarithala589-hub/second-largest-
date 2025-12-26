@@ -12,4 +12,4 @@ def secondlargest(arr):
     return secmax
             
 arr=list(map(int,input().split())) 
-print(secdondlargest(arr)) 
+print(secnondlargest(arr)) 
